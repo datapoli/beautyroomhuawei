@@ -1,0 +1,341 @@
+[
+  {
+    "beautyroom.angel.photo.editor": {
+      "am_ba": "Rn0pSEgDeaQjcI0NNQY3RR9F4uKcU6qQBMUZE3y635Sn3KrB9oUgJWeeOWGG31aD",
+      "am_in": "Rn0pSEgDeaQjcI0NNQY3RdAwPxprT3rXQQc0V2PZvjZ26wfY+rFIr8Gk9KWK30R+",
+      "am_vi": "Rn0pSEgDeaQjcI0NNQY3Re7Q/PA/T2+nKAMmnCK4XZiGVNVoXAtu59S39Xjjoec/",
+      "am_na": "Rn0pSEgDeaQjcI0NNQY3RdFpMPee9Zckjl6RY9qcT4xcQx336G008pBCmp1eYGP9"
+    }
+  },
+  {
+    "common": {
+      "ads_app": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/ads.json",
+      "sticker_type": [
+        "Free",
+        "Premium"
+      ],
+      "sticker": [
+        {
+          "name": "Highlights",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "icon": "",
+          "extension_demo":"png",
+          "material_bg_demo_color":"#DA797979",
+          "material_bg_cover_color":"#34000000",
+          "date": 1576749159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Highlights/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Highlights/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Highlights.io",
+          "price": -1
+        },
+        {
+          "name": "Emoji Face",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 28,
+          "icon": "",
+          "extension_demo":"png",
+          "date": 1576748159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Emoji Face/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Emoji Face/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Emoji Face.io",
+          "price": -1
+        },
+        {
+          "name": "Makeup",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 24,
+          "icon": "",
+          "extension_demo":"png",
+          "date": 1576747159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Makeup/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Makeup/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Makeup.io",
+          "price": -1
+        },
+        {
+          "name": "Hairstyles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "icon": "",
+          "extension_demo":"png",
+          "date": 1576746159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Hairstyles/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Hairstyles/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Hairstyles.io",
+          "price": -1
+        },
+        {
+          "name": "Accessories",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576745159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Accessories/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Accessories/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Accessories.io",
+          "price": -1
+        },
+        {
+          "name": "Moon",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 20,
+          "extension_demo":"png",
+          "date": 1576744159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Moon/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Moon/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Moon.io",
+          "price": -1
+        },
+        {
+          "name": "Folk_Hats",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576743159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Folk_Hats/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Folk_Hats/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Folk_Hats.io",
+          "price": -1
+        },
+        {
+          "name": "Muscles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576742159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Muscles/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Muscles/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Muscles.io",
+          "price": -1
+        },
+        {
+          "name": "Shiny Bright",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576741159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Shiny Bright/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Shiny Bright/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Shiny Bright.io",
+          "price": -1
+        },
+        {
+          "name": "I Love You",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576739159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/I Love You/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/I Love You/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/I Love You.io",
+          "price": -1
+        },
+        {
+          "name": "Stylish Hats",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576738159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Stylish Hats/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Stylish Hats/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Stylish Hats.io",
+          "price": -1
+        },
+        {
+          "name": "Alphabe",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 32,
+          "extension_demo":"png",
+          "date": 1576737159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Alphabe/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Alphabe/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Alphabe.io",
+          "price": -1
+        },
+        {
+          "name": "Holi",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576736159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Holi/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Holi/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Holi.io",
+          "price": -1
+        },
+        {
+          "name": "Thanks Mom",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576735159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Thanks Mom/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Thanks Mom/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Thanks Mom.io",
+          "price": -1
+        },
+        {
+          "name": "Sparklers",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 18,
+          "extension_demo":"png",
+          "date": 1576734159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Sparklers/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Sparklers/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Sparklers.io",
+          "price": -1
+        },
+        {
+          "name": "Best Dad",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576733159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Best Dad/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Best Dad/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Best Dad.io",
+          "price": -1
+        },
+        {
+          "name": "Trendy Hairstyles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576732159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Trendy Hairstyles/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Trendy Hairstyles/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Trendy Hairstyles.io",
+          "price": -1
+        },
+        {
+          "name": "Rainbow",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 18,
+          "extension_demo":"png",
+          "date": 1576731159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Rainbow/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Rainbow/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Rainbow.io",
+          "price": -1
+        },
+        {
+          "name": "Mommy",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1576730159,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Mommy/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Mommy/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Mommy.io",
+          "price": -1
+        }
+      ],
+      "frames":[
+        {
+          "name": "Glitch Effect",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 24,
+          "extension_demo":"png",
+          "icon": "",
+          "date": 1576849159,
+          "keyword": "frame",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/f/Glitch Effect/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/f/Glitch Effect/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codef/Glitch Effect.io",
+          "price": -1
+        },{
+          "name": "3D Camera",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 156,
+          "extension_demo":"png",
+          "icon": "",
+          "material_bg_demo_color":"#DA797979",
+          "material_bg_cover_color":"#34000000",
+          "date": 1576349159,
+          "keyword": "frame",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/f/3D Camera/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/f/3D Camera/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codef/3D Camera.io",
+          "price": -1
+        }
+        ],
+        "bg":[
+        {
+          "name": "3D Movie",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 22,
+          "extension_demo":"jpg",
+          "icon": "",
+          "date": 1576749159,
+          "keyword": "background",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/bg/3D Movie/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/bg/3D Movie/cover.jpg",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codebg/3D Movie.io",
+          "price": -1
+        },{
+          "name": "Smoke Effect",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 30,
+          "extension_demo":"jpg",
+          "icon": "",
+          "material_bg_demo_color":"#2196F3",
+          "material_bg_cover_color":"#342196F3",
+          "date": 1573349159,
+          "keyword": "background",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/bg/Smoke Effect/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/bg/Smoke Effect/cover.jpg",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codebg/Smoke Effect.io",
+          "price": -1
+        }
+        ],
+      "configs": {
+        "material_bg_cover_color": "null",
+        "material_bg_demo_color": "null",
+        "home_list_size": 12
+      }
+    }
+  }
+]
