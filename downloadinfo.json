@@ -321,7 +321,9 @@
         "material_bg_cover_color": "",
         "material_bg_demo_color": "",
         "home_list_size": 12,
-      "ads_app": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/ads/ads.json"
+      "ads_app": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/ads/ads.json",
+	"firstAdsPosition":1,
+	"loopAds":4
       }
     }
   }
