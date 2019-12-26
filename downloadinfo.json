@@ -326,7 +326,8 @@
         "home_list_size": 12,
       "ads_app": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/ads/ads.json",
 	"first_ads_position_shop":1,
-	"loop_ads_position_shop":4
+	"loop_ads_position_shop":4,
+	"load_more_shop":20
       }
     }
   }
