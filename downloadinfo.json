@@ -37,7 +37,7 @@
           "extension_demo":"png",
           "date": 1571820199,
           "keyword": "sticker",
-          "tag":["icon","qq"],
+          "tag":["icon","sticker"],
           "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Emoji Face/thumb/",
           "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Emoji Face/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Emoji Face.io",
@@ -52,7 +52,7 @@
           "extension_demo":"png",
           "date": 1507965013,
           "keyword": "sticker",
-	  "tag":["fashion","girl"],
+	  "tag":["fashion"],
           "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Makeup/thumb/",
           "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Makeup/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Makeup.io",
@@ -116,6 +116,7 @@
           "type": "Free",
           "is_new": "false",
           "thumb": 16,
+	  "tab":["man"],
           "extension_demo":"png",
           "date": 1501636963,
           "keyword": "sticker",
@@ -266,7 +267,21 @@
           "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Mommy/cover.png",
           "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Mommy.io",
           "price": -1
-        }
+        },
+	{
+          "name": "Men Tattoos",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 65,
+	  "tab":["man"],
+          "extension_demo":"png",
+          "date": 1580039589,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Men Tattoos/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Men Tattoos/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Men Tattoos.io",
+          "price": -1
+        },
       ],
       "frames":
 
