@@ -12,10 +12,10 @@
     },
     {
       "icon": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/ads/graphic1.jpg",
-      "appName": "Album Cover Creator",
-      "description": "Amazing album art for music albums and cd covers",
-      "package": "album.cover.creator",
+      "cover": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/ads/graphic1.png",
+      "appName": "Filter for Snapchat",
+      "description": "Fantastic photos with Funny face filters. FREE for a limited time! Get alot of filters... You ever wanted to have!",
+      "package": "filter.selfie.camera.photo.stickers",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
